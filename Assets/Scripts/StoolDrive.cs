@@ -133,7 +133,7 @@ public class StoolDrive : MonoBehaviour
         {
 
             // set the speed
-            speed = 1200;
+            speed = 600;
 
             // set the collider location
             colliderAnim.Play("back_collied");
